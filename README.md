@@ -36,14 +36,7 @@ This script checks cryptocurrency balances across multiple blockchains for walle
 ---
 
 ## Environment Setup
-
-1. Copy the example environment file:
-
-```bash
-cp .env.example .env
-```
-
-2. Edit the `.env` file and add your Panda Terminal API authentication token:
+1. Edit the `.env` file and add your Panda Terminal API authentication token:
 
 
 ## ▶️ How to Run
